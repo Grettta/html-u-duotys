@@ -1,0 +1,41 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.pavadinimas {
+  text-align: center;
+}
+.meniu-juosta ul {
+  display: flex;
+  list-style: none;
+  gap: 10px;
+  border-bottom: 1px solid black;
+  border-top: 2px solid black;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.meniu-juosta {
+  display: flex;
+  justify-content: center;
+}
+.paveikslai {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  padding-top: 20px;
+}
+.tekstas {
+  padding-top: 20px;
+  text-align: center;
+  width: 450px;
+  display: block;
+  margin: auto;
+}
+.tevinis {
+  border-style: double;
+  margin: auto;
+  width: 70%;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}

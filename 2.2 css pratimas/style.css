@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+form {
+  background-color: #f2f2f2;
+  margin: auto;
+  width: 50%;
+  display: block;
+  padding: 20px;
+}
+input {
+  width: 100%;
+  margin-bottom: 10px;
+}
+button {
+  width: 50px;
+  height: 30px;
+  border-color: #5353fc;
+  display: block;
+  margin: auto;
+}

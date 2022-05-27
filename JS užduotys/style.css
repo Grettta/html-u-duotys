@@ -1,0 +1,12 @@
+  font-family: Arial;
+}
+* {
+  box-sizing: border-box;
+}
+
+form input {
+  display: block;
+}
+form textarea {
+  display: block;
+}

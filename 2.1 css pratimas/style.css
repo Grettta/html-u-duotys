@@ -1,0 +1,13 @@
+.box {
+  background-color: #c0c0c0;
+  padding: 20px;
+}
+h1 {
+  background-color: #dfdfdf;
+  padding: 20px;
+}
+
+.box p {
+  margin: 0;
+  padding-left: 20px;
+}
